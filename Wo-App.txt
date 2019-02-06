@@ -2,3 +2,5 @@ WO-App
 
 1. Modul Catering
 2. Modul Hiburan
+3. Modul Property
+4. Modul Transaksi
