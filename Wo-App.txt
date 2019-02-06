@@ -1,6 +1,14 @@
 WO-App
 
 1. Modul Catering
+	a. API catering
+	b. Mockup catering
+		- viewAll catering
+		- view catering by jenis makanan
+		- tambah data catering
+	c. UI catering
+		- UI viewAll catering
+		- UI view catering by id
 2. Modul Hiburan
 3. Modul Property
 4. Modul Transaksi
