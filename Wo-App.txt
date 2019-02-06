@@ -10,5 +10,8 @@ WO-App
 		- UI viewAll catering
 		- UI view catering by id
 2. Modul Hiburan
+	a. API Hiburan 
+	b. Mockup Hiburan
+	c. UI Hiburan
 3. Modul Property
 4. Modul Transaksi
